@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Crypto Dashboard project.<br>👯 I'm currently looking to collaborate on React TS projects.<br>🌱 I'm currently learning back-end development.<br>💬 Ask me about front-end related html/css/logic building.<br>⚡ I am surviving on lots of coffee and FC Barcelona winning it's matches.
+🔭 I'm currently working on Crypto Dashboard project.<br>👯 I'm currently looking to collaborate on React TS projects.<br>🌱 I'm currently learning back-end development.<br>💬 Ask me about front-end related html/css/logic building.<br>⚡ I am surviving on lots of coffee and FC Barcelona winning its matches.
 
 
 ## 🌐 Socials:
