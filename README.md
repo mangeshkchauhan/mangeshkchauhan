@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer with a passion for creating visually appealing and user-friendly websites and web applications. I have experience with a variety of frontend technologies, including HTML, CSS, JavaScript, and frameworks such as React.<br>
+I am a Frontend Developer with a passion for creating visually appealing and user-friendly websites and web applications. I have experience with a variety of frontend technologies, including HTML, CSS, JavaScript, and frameworks such as React.<br><br>
 🔭 I'm currently working on Crypto Dashboard project.<br>👯 I'm currently looking to collaborate on React TS projects.<br>🌱 I'm currently learning back-end development.<br>💬 Ask me about front-end related html/css/logic building.<br>⚡ I am surviving on lots of coffee and FC Barcelona winning its matches.
 
 ## 💡 Skills:
