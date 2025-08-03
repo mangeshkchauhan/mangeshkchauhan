@@ -155,6 +155,4 @@ const developer = {
   
   <h3>Thanks for visiting! 😊</h3>
   
-  ![Visitor Count](https://profile-counter.glitch.me/{mangeshkchauhan}/count.svg)
-  
 </div>
