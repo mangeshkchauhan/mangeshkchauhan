@@ -3,7 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <a href="https://buymeacoffee.com/mangeshkchauhan">Buy me a coffee</a>
+</div>
 ---
 
 ## 🚀 About Me
