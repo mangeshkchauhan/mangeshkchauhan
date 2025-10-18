@@ -3,7 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-<a href="https://www.buymeacoffee.com/mangeshkchauhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<div align="center"><a href="https://www.buymeacoffee.com/mangeshkchauhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
+
+
 ---
 
 ## 🚀 About Me
