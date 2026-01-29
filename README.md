@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=80&lines=Frontend+Developer+%7C+React+Enthusiast;UI%2FUX+Designer+%7C+Always+Learning+%F0%9F%9A%80;Building+scalable+apps+with+modern+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&repeat=true&width=435&height=30&lines=Frontend+Developer+%7C+React+Enthusiast;UI%2FUX+Designer+%7C+Always+Learning+%F0%9F%9A%80;Building+modern+web+experiences" alt="Typing SVG" />
   </a>
 </div>
 
@@ -164,7 +164,7 @@ const mangesh = {
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://img.shields.io/badge/2022-6366F1?style=for-the-badge" alt="2022"/>
+<img src="https://img.shields.io/badge/2023-6366F1?style=for-the-badge" alt="2023"/>
 </td>
 <td>
 
@@ -177,7 +177,7 @@ const mangesh = {
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://img.shields.io/badge/2021-10B981?style=for-the-badge" alt="2021"/>
+<img src="https://img.shields.io/badge/2022-10B981?style=for-the-badge" alt="2022"/>
 </td>
 <td>
 
@@ -190,7 +190,7 @@ const mangesh = {
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://img.shields.io/badge/2020-FF6B6B?style=for-the-badge" alt="2020"/>
+<img src="https://img.shields.io/badge/2021-FF6B6B?style=for-the-badge" alt="2021"/>
 </td>
 <td>
 
