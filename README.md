@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Who Am I?
 
 > "Crafting digital experiences one pixel at a time"
 
@@ -96,7 +96,7 @@ const mangesh = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 My Arsenal of Weapons
 
 <div align="center">
 
@@ -144,58 +144,104 @@ const mangesh = {
 
 ---
 
-## 💼 Professional Journey
+## 🚀 The Adventure So Far
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🏢 SENIOR FRONTEND ENGINEER                                    StayNow   │
-│   ├── Spearheading end-to-end product development                          │
-│   ├── Optimized JS thread workload & UI animations                         │
-│   └── Leading high-velocity cross-functional teams                         │
-│                                                                             │
-│   💻 SOFTWARE ENGINEER I/II                              Fountane Makerspace│
-│   ├── Led StayNow mobile app with React Native                             │
-│   ├── Built interactive 3D design landing pages                            │
-│   └── Implemented SSR with Next.js                                         │
-│                                                                             │
-│   📚 SOFTWARE ENGINEER I                                           BYJU'S   │
-│   ├── Built dynamic React/Redux UI modules                                 │
-│   ├── Automated deployment workflows                                       │
-│   └── Reduced infrastructure costs by 75%                                  │
-│                                                                             │
-│   🎓 SOFTWARE ENGINEER INTERN                                     Epsilon   │
-│   ├── Delivered pixel-accurate UIs                                         │
-│   └── Crafted responsive accessible components                             │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/NOW-00D8FF?style=for-the-badge" alt="Current"/>
+</td>
+<td>
+
+### 🚀 Senior Frontend Engineer @ **StayNow**
+`React` `React Native` `TypeScript` `Performance`
+
+> Spearheading end-to-end product development • Optimized JS thread workload & buttery UI animations • Leading high-velocity cross-functional teams
+
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2022-6366F1?style=for-the-badge" alt="2022"/>
+</td>
+<td>
+
+### 💻 Software Engineer I/II @ **Fountane Makerspace**
+`React Native` `Next.js` `Three.js` `SSR`
+
+> Led StayNow mobile app development • Built interactive 3D design landing pages • Implemented Server-Side Rendering with Next.js
+
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2021-10B981?style=for-the-badge" alt="2021"/>
+</td>
+<td>
+
+### 📚 Software Engineer I @ **BYJU'S**
+`React` `Redux` `CI/CD` `AWS`
+
+> Built dynamic React/Redux UI modules • Automated deployment workflows • **Reduced infrastructure costs by 75%** 💰
+
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2020-FF6B6B?style=for-the-badge" alt="2020"/>
+</td>
+<td>
+
+### 🎓 Software Engineer Intern @ **Epsilon**
+`React` `CSS` `Accessibility` `Responsive Design`
+
+> Delivered pixel-accurate UIs • Crafted responsive & accessible components • Where it all began! ✨
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 My GitHub Story in Numbers
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mangeshkchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshkchauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mangeshkchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mangeshkchauhan&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mangeshkchauhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mangeshkchauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mangeshkchauhan&theme=default&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=mangeshkchauhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshkchauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshkchauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshkchauhan&layout=compact&theme=default&hide_border=true" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshkchauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF" alt="Top Languages"/>
+  </picture>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangeshkchauhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF" width="98%" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mangeshkchauhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mangeshkchauhan&theme=minimal&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangeshkchauhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF" width="98%" alt="Activity Graph"/>
+  </picture>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
   <picture>
@@ -207,21 +253,19 @@ const mangesh = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mangeshkchauhan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mangeshkchauhan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mangeshkchauhan&theme=flat&no-frame=true&column=7&margin-w=5&margin-h=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mangeshkchauhan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  </picture>
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mangeshkchauhan&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mangeshkchauhan/portfolio)
-
-</div>
+## 🎨 Things I've Built
 
 <table align="center">
 <tr>
@@ -268,7 +312,7 @@ const mangesh = {
 
 ---
 
-## 🎮 Let's Play!
+## 🎮 Need a Break? Let's Play!
 
 <div align="center">
   
@@ -282,7 +326,7 @@ const mangesh = {
 
 ---
 
-## 💭 Developer Quote
+## 💡 Words of Wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -290,7 +334,7 @@ const mangesh = {
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Be Friends!
 
 <div align="center">
 
