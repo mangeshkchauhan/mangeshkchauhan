@@ -275,7 +275,7 @@ const mangesh = {
 **Healthcare Education Platform**
 - Connects medical students with research
 - Built with Next.js, React, TypeScript
-- [🔗 Live Demo](https://siaa.live)
+- [🔗 Live Demo](https://siaaorg.in)
 
 </td>
 <td width="50%">
@@ -284,7 +284,7 @@ const mangesh = {
 **Web3 Tokenomics Consulting**
 - Professional consulting platform
 - Sustainable token economies
-- [🔗 Live Demo](https://tokenomy.live)
+- [🔗 Live Demo](https://tokenomy.info)
 
 </td>
 </tr>
