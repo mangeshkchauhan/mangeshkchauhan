@@ -158,7 +158,7 @@ const mangesh = {
 ### 🚀 Senior Frontend Engineer @ **StayNow**
 `React` `React Native` `TypeScript` `Performance`
 
-> Spearheading end-to-end product development • Optimized JS thread workload & buttery UI animations • Leading high-velocity cross-functional teams
+> Spearheading end-to-end product development • Optimized JS thread workload • Working with high-velocity cross-functional teams
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ const mangesh = {
 ### 💻 Software Engineer I/II @ **Fountane Makerspace**
 `React Native` `Next.js` `Three.js` `SSR`
 
-> Led StayNow mobile app development • Built interactive 3D design landing pages • Implemented Server-Side Rendering with Next.js
+> Worked on StayNow mobile app development • Built interactive 3D design landing pages • Implemented Server-Side Rendering with Next.js
 
 </td>
 </tr>
